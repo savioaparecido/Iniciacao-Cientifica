@@ -1,0 +1,81 @@
+,"Códigos
+da 
+CNAE
+2.0","Divisões, grupos 
+e
+classes de atividades","Número
+de
+empresas
+ativas","Receita bruta Total
+(1) 1 000 R$","Receita bruta Obras e/ou
+serviços da
+construção
+executados 1 000 R$","Receita bruta Incorporações
+de imóveis,
+construídos
+por outras
+empresas 1 000 R$","Receita bruta Serviços
+técnicos de
+escritório, de
+campo e de
+laboratório 1 000 R$","Receita bruta Venda de
+materiais de
+construção
+e de
+demolição 1 000 R$","Receita bruta Revenda
+de
+imóveis 1 000 R$","Receita bruta Locação
+de
+mão de obra 1 000 R$"
+5,,Total das empresas,131487,352677843,329286584,16409772,336418,2353529,1268395,346428
+6,,Empresas de 1 a 4 pessoas ocupadas,67059,23318699,19578879,3195540,6207,148992,24775,5611
+7,41,Construção de edifícios,23758,13154333,9884081,3186673,1370,60535,17715,1444
+8,42,Obras de infraestrutura,4625,1779480,1731172,6762,794,31214,388,3186
+9,43,Serviços especializados para construção,38676,8384886,7963626,2105,4043,57243,6672,981
+10,,Empresas de 5 a 29 pessoas ocupadas,51331,59760850,53243576,4883678,80509,224372,579590,72349
+11,41,Construção de edifícios,21371,34378917,28767008,4859125,32958,66793,564542,25220
+12,41.1,Incorporação e empreendimentos imobiliários,1606,5100329,42201,4786667,5822,9737,242582,9089
+13,41.2,Construção de edifícios,19765,29278588,28724807,72458,27136,57056,321960,16131
+14,42,Obras de infraestrutura,4619,6263128,5998019,3146,5881,48915,10072,17647
+15,42.1,"Construção de rodovias, ferrovias, obras urbanas e obras de arte especiais",1506,2595898,2416808,2930,3627,12689,9592,15492
+16,42.2,"Obras de infraestrutura para energia elétrica, telecomunicações, água, esgoto e transporte por dutos",1139,1712022,1666307,152,2250,33484,480,950
+17,42.9,Construção de outras obras de infraestrutura,1974,1955208,1914904,64,4,2742,-,1205
+18,43,Serviços especializados para construção,25341,19118805,18478549,21407,41670,108664,4976,29482
+19,43.1,Demolição e preparação do terreno,2707,3054911,2947712,5746,36883,1850,498,10537
+20,43.2,"Instalações elétricas, hidráulicas e outras instalações em construções",8205,5982291,5731486,14164,3882,20332,-,17715
+21,43.3,Obras de acabamento,6855,4085290,4001142,17,408,48729,-,1029
+22,43.9,Outros serviços especializados para construções,7574,5996313,5798209,1480,497,37753,4478,201
+23,,Empresas com 30 ou mais pessoas ocupadas,13097,269598294,256464129,8330554,249702,1980165,664030,268468
+24,41,Construção de edifícios,6623,113295044,103810006,8277930,71592,146025,505844,96830
+25,41.1,Incorporação e empreendimentos imobiliários,294,8112642,44458,7965790,7687,1,61409,2
+26,41.10,Incorporação e empreendimentos imobiliários,294,8112642,44458,7965790,7687,1,61409,2
+27,41.2,Construção de edifícios,6329,105182402,103765548,312140,63905,146024,444435,96828
+28,41.20,Construção de edifícios,6329,105182402,103765548,312140,63905,146024,444435,96828
+29,42,Obras de infraestrutura,2576,113587752,110933764,38587,117247,1528536,98997,36575
+30,42.1,"Construção de rodovias, ferrovias, obras urbanas e obras de arte especiais",1034,52385026,51381138,20156,24814,417116,86149,19886
+31,42.11,Construção de rodovias e ferrovias,675,36794987,36121951,7483,23099,248832,40476,17203
+32,42.12,Construção de obras de arte especiais,61,9968044,9804074,9828,443,136664,2303,1150
+33,42.13,"Obras de urbanização - ruas, praças e calçadas",298,5621995,5455113,2845,1272,31620,43370,1533
+34,42.2,"Obras de infraestrutura para energia elétrica, telecomunicações, água, esgoto e transporte por dutos",745,36054472,34709083,15257,74475,976034,7773,3439
+35,42.21,Obras para geração e distribuição de energia elétrica e para telecomunicações,480,27530016,26374391,3221,58225,951069,270,3265
+36,42.22,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas",239,6152005,6023011,12036,6087,4414,7212,174
+37,42.23,"Construção de redes de transportes por dutos, exceto para água e esgoto",26,2372451,2311681,-,10163,20551,291,-
+38,42.9,Construção de outras obras de infraestrutura,797,25148254,24843543,3174,17958,135386,5075,13250
+39,42.91,"Obras portuárias, marítimas e fluviais",34,2606145,2585582,-,1289,334,279,-
+40,42.92,Montagem de instalações industriais e de estruturas metálicas,262,11910187,11788124,25,7499,50891,352,1992
+41,42.99,Obras de engenharia civil não especificadas anteriormente,501,10631922,10469837,3149,9170,84161,4444,11258
+42,43,Serviços especializados para construção,3898,42715498,41720359,14037,60863,305604,59189,135063
+43,43.1,Demolição e preparação do terreno,499,8416078,8308914,660,1143,32649,13264,8537
+44,43.11,Demolição e preparação de canteiros de obras,49,1117790,1104066,74,902,1863,8736,2149
+45,43.12,Perfurações e sondagens,57,782709,776029,-,-,-,205,-
+46,43.13,Obras de terraplenagem,373,6253657,6183229,586,241,15170,4323,6388
+47,43.19,Serviços de preparação do terreno não especificados anteriormente,20,261922,245590,-,-,15616,-,-
+48,43.2,"Instalações elétricas, hidráulicas e outras instalações em construções",1227,16538802,16020736,2803,29107,161994,5102,61428
+49,43.21,Instalações elétricas,677,7712848,7471301,2473,13369,105022,-,15576
+50,43.22,"Instalações hidráulicas, de sistemas de ventilação e refrigeração",382,4473377,4265090,237,12189,39624,1078,41200
+51,43.29,Obras de instalações em construções não especificadas anteriormente,168,4352577,4284345,93,3549,17348,4024,4652
+52,43.3,Obras de acabamento,815,3790996,3706979,129,1983,51734,12477,1383
+53,43.30,Obras de acabamento,815,3790996,3706979,129,1983,51734,12477,1383
+54,43.9,Outros serviços especializados para construção,1357,13969622,13683730,10445,28630,59227,28346,63715
+55,43.91,Obras de fundações,225,2936482,2895148,2067,130,27731,-,7154
+56,43.99,Serviços especializados para construção não especificados anteriormente,1132,11033140,10788582,8378,28500,31496,28346,56561
